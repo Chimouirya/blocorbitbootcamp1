@@ -1,0 +1,17 @@
+.sam ul{
+  display: flex;
+  text-decoration-color: blueviolet;
+  justify-content: center;
+  padding: 1px;
+  text-transform: uppercase;
+  background-color: aqua;
+}
+.sam li{
+  margin-right: 13px;
+  font-size: 22px;
+  list-style: none;
+}
+.sa{
+  background-color: aquamarine;
+  font-size: larger;
+}
